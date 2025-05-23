@@ -23,6 +23,8 @@ enum AppTab: String, CaseIterable, FloatingTabProtocol {
     }
 }
 
+
+
 struct MainTapBar: View {
     @Binding var activateTab: AppTab
     @State private var adminData = UserManager.shared.retrieveUserFromStorage()
