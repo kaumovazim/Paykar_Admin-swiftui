@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "06BDC71E-F9ED-4E0C-A527-DF8D01AF264E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212B79F7-C922-49ED-BE77-87DD000AE7C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Paykar Admin/Views/Login/Authorization/AuthorizationView.swift"
+            startingColumnNumber = "22"
+            endingColumnNumber = "22"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
